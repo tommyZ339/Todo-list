@@ -6,7 +6,7 @@
 
 **程序设计语言**：JavaScript
 
-**应用开发框架**：React Native + Realm by MangoDB
+**应用开发框架**：React Native
 
 **开发环境：**Node.js
 
